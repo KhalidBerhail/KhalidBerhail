@@ -10,7 +10,7 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
    - 💬   Ask me about anything tech related, I am happy to help.
    - 📫   Feel free to ping me on LinkedIn.
    - 📝   Checkout my resume.
-   - 📚   When I am free, I make beats 🎹, train boxing 🥊, work on personal projects or grab a drink with freinds🥤.
+   - 🎹   When I am free, I make beats, train boxing 🥊, work on personal projects or grab a drink with freinds🥤.
 
 
 ## 🔨 Languages and Tools:
