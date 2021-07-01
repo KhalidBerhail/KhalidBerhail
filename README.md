@@ -30,5 +30,5 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
 ## 🛠️ My Projects:
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=khalidberhail&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidberhail&hide_title=true&layout=compact&theme=dracula" />
+
 
