@@ -35,19 +35,24 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 
 ## 🛠️ My Projects:
 <a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> 
-   <img alt="ESRENT" src="" align="left">
+   <img alt="ESRENT" src="https://github.com/aymankd/PFE/blob/master/Resourse/images/logoHome.png" height="68" align="left">
 </a>
+<br>
+<br>
+<br>
 <br>
 
 ![ESRENT](https://github.com/KhalidBerhail/KhalidBerhail/blob/main/ESRENT-showcase_50.png)
 
 <a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank">
-   <img alt="SudokuSolver" src="" align="left">
+   <img alt="SudokuSolver" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sudokusolver.png" height="270" align="left">
 </a>
 <br>
 <br>
 
 ![sudoku](https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sdk_50.png)
+
+
 
 <!--
 <a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> 
