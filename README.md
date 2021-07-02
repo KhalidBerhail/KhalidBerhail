@@ -34,8 +34,8 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 
 
 ## 🛠️ My Projects:
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="ESRENT" src="" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="SudokuSolver" src=""  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="HashiWokakeroSolver" src="" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="" height="68" align="left"> </a>
+<a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> <img alt="ESRENT" src="" height="68" align="left"> </a>
+<a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank"> <img alt="SudokuSolver" src=""  height="68" align="left"> </a>
+<a href="https://github.com/KhalidBerhail/HashiwokakeroSolver" target="_blank"> <img alt="HashiWokakeroSolver" src="" height="68" align="left"> </a>
+<a href="https://github.com/KhalidBerhail/SchoolManagement" target="_blank"> <img alt="SchoolManagement" src="" height="68" align="left"> </a>
 
