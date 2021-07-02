@@ -35,6 +35,7 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 
 ## 🛠️ My Projects:
 <a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> <img alt="ESRENT" src="" height="68" align="left"> </a>
+<img alt="ESRENT-SHOWCASE" src="https://github.com/KhalidBerhail/KhalidBerhail/ESRENT-showcase">
 <a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank"> <img alt="SudokuSolver" src=""  height="68" align="left"> </a>
 <a href="https://github.com/KhalidBerhail/HashiwokakeroSolver" target="_blank"> <img alt="HashiWokakeroSolver" src="" height="68" align="left"> </a>
 <a href="https://github.com/KhalidBerhail/SchoolManagement" target="_blank"> <img alt="SchoolManagement" src="" height="68" align="left"> </a>
