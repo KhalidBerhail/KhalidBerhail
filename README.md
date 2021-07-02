@@ -34,8 +34,32 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 
 
 ## 🛠️ My Projects:
-<a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> <img alt="ESRENT" src="" height="68" align="left"> </a>
-<a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank"> <img alt="SudokuSolver" src=""  height="68" align="left"> </a>
-<a href="https://github.com/KhalidBerhail/HashiwokakeroSolver" target="_blank"> <img alt="HashiWokakeroSolver" src="" height="68" align="left"> </a>
-<a href="https://github.com/KhalidBerhail/SchoolManagement" target="_blank"> <img alt="SchoolManagement" src="" height="68" align="left"> </a>
+<a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> 
+   <img alt="ESRENT" src="" align="left">
+</a>
+<br>
+
+![ESRENT](https://github.com/KhalidBerhail/KhalidBerhail/blob/main/ESRENT-showcase_50.png)
+
+<a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank">
+   <img alt="SudokuSolver" src="" align="left">
+</a>
+<br>
+<br>
+
+![sudoku](https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sdk_50.png)
+
+<!--
+<a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> 
+   <img alt="ESRENT" src="" height="68" align="left">
+</a>
+ <img alt="ESRENT-SHOWCASE" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/ESRENT-showcase_50.png">
+ 
+<a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank">
+   <img alt="SudokuSolver" src="" height="68" align="left">
+</a>
+<br>
+<br>
+<img alt="SudokuSolver-showcase" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sdk_50.png" align="left">
+--!>
 
