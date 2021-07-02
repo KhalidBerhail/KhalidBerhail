@@ -16,6 +16,7 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 
 
 ## 🔨 Languages and Tools:
+
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C%20language-000000?style=flat&logo=C&logoColor=FDFDFD)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -30,6 +31,10 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+
+
+
 
 
 
