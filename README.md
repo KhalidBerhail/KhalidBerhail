@@ -35,10 +35,10 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 
 ## 🛠️ My Projects:
 
-<a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> <img alt="ESRENT" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/logoHome.png" height="68" align="left"> </a>
-<a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank"> <img alt="readmeicons" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sudokusolver.png" height="68" width="340" align="left"></a> 
-<a href="https://github.com/KhalidBerhail/HashiwokakeroSolver" target="_blank"> <img alt="Hashiwokakero" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/hashi.png"  height="57" width="280" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> <img alt="ESRENT" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/logoHome.png"  align="left"> </a>
+<a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank"> <img alt="readmeicons" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sudokusolver.png"  align="left"></a> 
+<a href="https://github.com/KhalidBerhail/HashiwokakeroSolver" target="_blank"> <img alt="Hashiwokakero" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/hashi.png"   align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg"  align="left"> </a>
 
 
    
