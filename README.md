@@ -34,6 +34,17 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 
 
 ## 🛠️ My Projects:
+
+<a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> <img alt="ESRENT" src="https://github.com/aymankd/PFE/blob/master/Resourse/images/logoHome.png" height="68" align="left"> </a>
+<a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank"> <img alt="readmeicons" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sudokusolver.png" height="68" width="340" align="left"></a> 
+<a href="https://github.com/KhalidBerhail/HashiwokakeroSolver" target="_blank"> <img alt="Hashiwokakero" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/hashi.png"  height="57" width="280" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+
+
+   
+   
+
+<!--
 <a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> 
    <img alt="ESRENT" src="https://github.com/aymankd/PFE/blob/master/Resourse/images/logoHome.png" height="68" align="left">
 </a>
@@ -45,26 +56,39 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 ![ESRENT](https://github.com/KhalidBerhail/KhalidBerhail/blob/main/ESRENT-showcase_50.png)
 
 <a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank">
-   <img alt="SudokuSolver" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sudokusolver.png" height="270" align="left">
+   <img alt="SudokuSolver" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sudokusolver.png" height="46" align="left">
 </a>
 <br>
-<br>
+<br><br>
 
 ![sudoku](https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sdk_50.png)
 
 
 
-<!--
-<a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> 
-   <img alt="ESRENT" src="" height="68" align="left">
-</a>
- <img alt="ESRENT-SHOWCASE" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/ESRENT-showcase_50.png">
- 
-<a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank">
-   <img alt="SudokuSolver" src="" height="68" align="left">
-</a>
-<br>
-<br>
-<img alt="SudokuSolver-showcase" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sdk_50.png" align="left">
 --!>
+
+<!--
+<p width="400">
+      <a href="https://github.com/KhalidBerhail/ESRENT" target="_blank"> 
+         <img alt="ESRENT" src="https://github.com/aymankd/PFE/blob/master/Resourse/images/logoHome.png" height="68" align="left">
+      </a>
+      <br>
+      <br>
+      <br>
+      <br>
+      <img alt="ESRENT" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/ESRENT-showcase_50.png" width="400">
+      
+      
+   </p>
+   
+   <p width="400">
+      <a href="https://github.com/KhalidBerhail/SudokuSolver" target="_blank">
+         <img alt="SudokuSolver" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sudokusolver.png" height="46" align="left">
+      </a>
+      <br>
+      <br><br>
+       <img alt="SudokuSolver" src="https://github.com/KhalidBerhail/KhalidBerhail/blob/main/sdk_50.png" width="400">
+      
+   </p>
+-->
 
