@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/KhalidBerhail/KhalidBerhail/blob/main/banner.png)
+![Design and Development](https://github.com/KhalidBerhail/KhalidBerhail/blob/main/banner2.png)
 
 ## Hi I'm Khalid 👋
 <a href='https://www.linkedin.com/in/khalid-berhail-a4b895203/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
@@ -10,8 +10,8 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
    - 🔭   I’m currently working on groceries list app.
    - 🌱   I’m currently learning React-native 📱.
    - 💬   Ask me about anything tech related, I am happy to help.
-   - 📫   Feel free to ping me on LinkedIn.
-   - 📝   Checkout my resume.
+   - 📫   Feel free to checkout my <a href="https://www.linkedin.com/in/khalid-berhail-a4b895203/">LinkedIn</a>.
+   - 📝   Checkout my <a href="https://drive.google.com/file/d/1WymDzPtq7PkP2IHcVXahVQFbTLL3xGMh/view?usp=sharing">resume</a>.
    - 🎹   When I am free, I make beats, train boxing 🥊, work on personal projects or grab a drink with freinds🥤.
 
 
