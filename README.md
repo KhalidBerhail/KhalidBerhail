@@ -1,3 +1,5 @@
+![Design and Development](https://github.com/KhalidBerhail/KhalidBerhail/blob/main/banner.png)
+
 ## Hi I'm Khalid 👋
 <a href='https://www.linkedin.com/in/khalid-berhail-a4b895203/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
@@ -29,6 +31,11 @@ I'm an IT student 👨🏻‍💻 at the university of Rouen, France, I recently
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
-## 🛠️ My Projects:
 
+
+## 🛠️ My Projects:
+<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="ESRENT" src="" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="SudokuSolver" src=""  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="HashiWokakeroSolver" src="" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="" height="68" align="left"> </a>
 
